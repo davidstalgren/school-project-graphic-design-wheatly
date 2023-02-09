@@ -3,6 +3,6 @@ import vue from '@vitejs/plugin-vue';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/fed22d-grafiska-verktyg-tomatpureerna/',
+  base: '/school-project-graphic-design-wheatly/',
   plugins: [vue()],
 });
