@@ -42,7 +42,23 @@ Prettier
 https://medieinstitutet.github.io/fed22d-grafiska-verktyg-tomatpureerna/
 
 # Vi som har byggt sidan
-@davidstalgren
-@Sporesong
-@TessDevon
-@MariaLBovin
+- [David](https://github.com/davidstalgren)
+- [Maria](https://github.com/MariaLBovin)
+- [Tess](https://github.com/TessDevon)
+- [Suvi](https://github.com/Sporesong)
+
+# Designen vi i vår grupp gjorde
+
+https://medieinstitutet.github.io/fed22d-grafiska-verktyg-ketchup/
+Kodad utav.
+- [Jenny](https://github.com/jenwa)
+- [Joel](https://github.com/JoeldelPilar)
+- [Robin](https://github.com/robin-sevelin)
+- [Sussie](https://github.com/arnetzlinder)
+
+# Denna Wheatly sida var designad utav:
+
+- [Tittie](https://github.com/tittieth)
+- [Hanna](https://github.com/hannaforssell)
+- [Jesper](https://github.com/jeppeerixon)
+- [Alexander](https://github.com/alexwallden)
